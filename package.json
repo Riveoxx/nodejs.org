@@ -44,7 +44,7 @@
     "junk": "^3.1.0",
     "lodash.defaultsdeep": "^4.6.1",
     "marked": "^1.2.5",
-    "metalsmith": "^2.3.0",
+    "metalsmith": "^2.5.0",
     "metalsmith-collections": "^0.9.0",
     "metalsmith-discover-helpers": "^0.1.1",
     "metalsmith-discover-partials": "^0.1.2",
@@ -66,7 +66,7 @@
   "devDependencies": {
     "chokidar": "^3.4.3",
     "cross-env": "^7.0.2",
-    "delay-cli": "^1.1.0",
+    "delay-cli": "^2.0.0",
     "faucet": "0.0.1",
     "linkinator": "^2.2.2",
     "lockfile-lint": "^4.3.7",
@@ -79,7 +79,7 @@
     "remark-preset-lint-node": "^2.0.0",
     "st": "^2.0.0",
     "standard": "^16.0.3",
-    "stylelint": "^13.8.0",
+    "stylelint": "^14.0.0",
     "stylelint-config-twbs-bootstrap": "^2.1.0",
     "tape": "^5.0.1",
     "vnu-jar": "20.6.30"
